@@ -1,0 +1,29 @@
+                          div {
+                              width: 50%;
+                              height: 2em;
+                              margin: 0 auto;
+                              font-size: 40px;
+                              padding: 2%;
+                          }
+                          
+                          .header {
+                              padding: 3em;
+                              background-image: url('ny-bg.png');
+                              background-repeat: no-repeat;
+                          }
+                          
+                          p {
+                              width: 50%;
+                              height: 2em;
+                              margin: 0 auto;
+                              font-size: 20px;
+                              padding: 2%;
+                              border-bottom: 3px solid black;
+                              border-bottom-left-radius: 1cm;
+                              border-bottom-right-radius: 1cm;
+                          }
+                          
+                          #btn {
+                              margin: 0 auto;
+                              padding-left: 30%;
+                          }
